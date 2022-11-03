@@ -291,10 +291,14 @@ void LCD_init()
 ## Output screen shots :
 
 ### Display Off:
-![Screenshot (311)](https://user-images.githubusercontent.com/94154683/199736522-da751127-0c5b-4711-ab4b-4406dfd25b91.png)
+![Screenshot (330)](https://user-images.githubusercontent.com/94154683/199757464-8a3f01ab-e1f9-4ae7-a6e2-8b41c3a35547.png)
 
 ### Display On:
-![Screenshot (312)](https://user-images.githubusercontent.com/94154683/199736763-3c607594-143f-4a84-977f-8ea6f47a0242.png)
+
+![Screenshot (331)](https://user-images.githubusercontent.com/94154683/199757518-f9d256f5-5b2f-483b-802d-b07c91d5a3a4.png)
+
+### Circuit Diagram:
+![Screenshot (333)](https://user-images.githubusercontent.com/94154683/199757660-6159817e-37eb-4f31-ae4e-1a4593e7a48e.png)
 
 ## Result :
 Interfacing a keypad 4x4 is interfaced  with LPC2148
