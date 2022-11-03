@@ -1,10 +1,10 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name :
+Name : EASWAR.J
 
-Roll no :
+Roll no :212221230024
 
-Date of experiment :
+Date of experiment : 02-11-22
 
  
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller 
